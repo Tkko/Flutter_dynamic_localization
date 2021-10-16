@@ -1,8 +1,13 @@
 {
   "en":{
-    "app_name": "Dynamic Localizatino In Flutter"
+    "app_name": "Dynamic Localization In Flutter",
+    "change": "Change",
+    "locale": "English"
   },
+  
   "ka":{
-    "app_name": "დინამიური ლოკალიზაცია Flutter-ში"
+    "app_name": "დინამიური ლოკალიზაცია Flutter-ში",
+    "change": "შეცვლა",
+    "locale": "ქართული"
   }
 }
